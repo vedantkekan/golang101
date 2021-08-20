@@ -1,2 +1,4 @@
 # golang101
-study golang
+Programs written during studying golang
+
+Git push test 2021
